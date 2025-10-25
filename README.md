@@ -1,8 +1,5 @@
 # RFM Customer Segmentation
 
-This repository demonstrates a complete workflow for **customer segmentation using RFM (Recency, Frequency, Monetary) analysis** combined with **machine learning clustering** in PySpark. The focus is on identifying valuable customer segments for marketing and business insights.
-# RFM Customer Segmentation
-
 This repository presents a comprehensive workflow for **customer segmentation using RFM (Recency, Frequency, Monetary) analysis** enhanced with **machine learning clustering techniques** in PySpark. The main objective is to identify and understand customer behavior patterns to drive marketing strategies and improve business outcomes.
 
 ---
